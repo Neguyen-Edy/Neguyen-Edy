@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Neguyen-Edy
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React, Python, MongoDb
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me on Linkdln at https://www.linkedin.com/in/eddienguy/ or my email: nguyen.eddie.ubcpp@gmail.com
 
