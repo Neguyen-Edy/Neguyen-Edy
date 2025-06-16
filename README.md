@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neguyen-Edy
+- 👋 Hi, I’m Eddie Nguyen
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React, Python, MongoDb
 - 💞️ I’m looking to collaborate on any projects
